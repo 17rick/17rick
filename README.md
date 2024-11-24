@@ -8,9 +8,8 @@
 
 <h3 align="left">🌐Stay in Touch🗺️</h3>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/prites-306459237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandrakant-thakur-314414182/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/rick__17_/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rick__17" height="30" width="40" />
+<a href="https://www.linkedin.com/in/prites-306459237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prites-306459237/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/rick__17_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rick__17_" height="30" width="40" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.kaggle.com/pritesbera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/chandrakantbthakur" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/PritesX" target="blank">
@@ -42,29 +41,27 @@
   <a href="https://keras.io/" target="blank" rel="noreferrer"> 
     <img src="https://keras.io/img/logo.png" alt="keras" width="40" height="40"/> 
   </a> &nbsp;&nbsp;&nbsp;
- 
-  </a> 
   <a href="https://jupyter.org/" target="blank" rel="noreferrer"> 
     <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40"/> 
-  </a> 
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdD07Wmb_onuF5t2hwRKrBH7HYc7fCE0A0A&s" alt="tableau" width="40" height="40"/> 
-  </a> 
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4lkgTaFtjkK6L66jnBQtI4tL57CmU_vhzA&s" alt="excel" width="40" height="40"/> 
-  </a> 
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="https://plotly.com/" target="_blank" rel="noreferrer"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6UTPV9TTPThzYSFv8Ps9o4hdlr84SRn_f5g&s" alt="plotly" width="40" height="40"/> 
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" width="40" height="40"/> 
   </a> 
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvik1053&show_icons=true&locale=en&layout=compact" alt="17rick" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=17rick&show_icons=true&locale=en&layout=compact" alt="17rick" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvik1053&show_icons=true&locale=en" alt="17rick" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=17rick&show_icons=true&locale=en" alt="17rick" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik1053" alt="17rick" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=17rick" alt="17rick" /></p>
 
