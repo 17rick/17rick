@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Prites ❄️</h1>
-<h3 align="center">Aspiring Data Analyst🪶 </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=17rick&label=Profile%20views&color=0e75b6&style=flat" alt="17rick" /> </p>
+<div align="center" style="background-color: #1e1e2f; padding: 20px; border-radius: 15px;">
+  <h1 style="color: #ffffff;">Hi 🙋‍♂️, I'm <span style="color: #4caf50;">Prites</span></h1>
+  <h3 style="color: #ffffff;">Aspiring Data Scientist🪶</h3>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=17rick&label=Profile%20Views&color=0e75b6&style=flat" alt="17rick" />
+  </p>
+</div>
 
-- **Data Analyst proficient in Python, SQL, Power BI, and Machine Learning. Skilled in data cleaning, analysis, visualization, and predictive modeling. Collaborates with teams to transform data into actionable insights for strategic decision-making and operational efficiency**💡
+- **🗺️Data Analyst proficient in Python, SQL, Power BI🪶, and Machine Learning. Skilled in data cleaning, analysis, visualization, and predictive modeling. Collaborates with teams to transform data into actionable insights for strategic decision-making and operational efficiency💡**
 
 <h3 align="left">🌐Stay in Touch🗺️</h3>
 <p align="left">&nbsp;&nbsp;
@@ -72,10 +76,9 @@
   </a> 
 </p>
 
-
+----
 <div align="center" style="padding: 20px; background-color: #121212; border-radius: 15px;">
-  <h3 style="color: #4caf50;">Thank-you for visiting ! 🎆</h3>
+  <h3 style="color: #4caf50;">Thank You for Visiting! 🎆</h3>
 </div>
-
 
 
