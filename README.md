@@ -46,50 +46,8 @@
 </div>
 
 
-&nbsp;
-<h3 align="left">🖥️Tech Stack🛠️</h3>
-<p align="left"> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" target="blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://numpy.org/" target="blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://scikit-learn.org/" target="blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://seaborn.pydata.org/" target="blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org" target="blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://keras.io/" target="blank" rel="noreferrer"> 
-    <img src="https://keras.io/img/logo.png" alt="keras" width="40" height="40"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://jupyter.org/" target="blank" rel="noreferrer"> 
-    <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdD07Wmb_onuF5t2hwRKrBH7HYc7fCE0A0A&s" alt="tableau" width="40" height="40"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4lkgTaFtjkK6L66jnBQtI4tL57CmU_vhzA&s" alt="excel" width="40" height="40"/> 
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6UTPV9TTPThzYSFv8Ps9o4hdlr84SRn_f5g&s" alt="plotly" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" width="40" height="40"/> 
-  </a> 
-</p>
-
-
 <div style="padding: 20px; background-color: #2f2f4f; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <h3 style="color: #4caf50; text-align: center;">🖥️ Tech Stack 🛠️</h3>
+  <h2 style="color: #4caf50; text-align: center;">🖥️ Tech Stack 🛠️</h2>
   <p align="center">
     <a href="https://www.python.org" target="blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
