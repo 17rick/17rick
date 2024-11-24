@@ -7,34 +7,14 @@
 
 
 <h3 align="left">🌐Stay in Touch🗺️</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/prites-306459237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandrakant-thakur-314414182/" height="30" width="40" /></a>
+<p align="left">&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/prites-306459237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandrakant-thakur-314414182/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/rick__17_/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rick__17" height="30" width="40" />
-</a>
-<a href="https://www.kaggle.com/pritesbera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/chandrakantbthakur" height="30" width="40" /></a>
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/pritesbera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/chandrakantbthakur" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/PritesX" target="blank">
   <img align="center" src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-official-vector-download_691560-10797.jpg?semt=ais_hybrid" alt="PritesX" height="30" width="40" />
-</p>
-
-<h3 align="left">🌐 Stay in Touch</h3>
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/prites-306459237/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/rick__17_/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/pritesbera" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Profile" height="30" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <!-- X (Twitter) -->
-  <a href="https://x.com/PritesX" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/X_logo_2023.svg/768px-X_logo_2023.svg.png" alt="X Profile" height="30" width="40" />
-  </a>
 </p>
 
 
