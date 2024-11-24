@@ -6,7 +6,13 @@
   </p>
 </div>
 
-- **🗺️Data Analyst proficient in Python, SQL, Power BI🪶, and Machine Learning. Skilled in data cleaning, analysis, visualization, and predictive modeling. Collaborates with teams to transform data into actionable insights for strategic decision-making and operational efficiency💡**
+<div style="padding: 20px; background-color: #121212; border-radius: 15px;">
+  <h2 style="color: #4caf50;">🌱🚀</h2>
+  <p style="color: #ffffff;">
+    🗺️Data Analyst proficient in Python, SQL, Power BI🪶, and Machine Learning. Skilled in data cleaning, analysis, visualization, and predictive modeling. Collaborates with teams to transform data into actionable insights for strategic decision-making and operational efficiency💡
+  </p>
+</div>
+
 
 <h3 align="left">🌐Stay in Touch🗺️</h3>
 <p align="left">&nbsp;&nbsp;
