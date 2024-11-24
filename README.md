@@ -28,7 +28,7 @@
 </div>
 
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <h2 style="color: #4caf50;">🥀 GitHub Stats</h2>
 <div align="left" style="display: flex; justify-content: space-between; gap: 20px; padding: 20px; background-color: #121212; border-radius: 20px; flex-wrap: nowrap;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <div style="flex: 1; background-color: #1e1e2f; border-radius: 15px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
@@ -45,7 +45,7 @@
   </p>
 </div>
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div style="padding: 20px; background-color: #2f2f4f; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <h2 style="color: #4caf50; text-align: center;">🖥️ Tech Stack 🛠️</h2>
   <p align="center">
