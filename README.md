@@ -67,9 +67,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=17rick&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=1e1e2f" alt="17rick Top Languages" />
   </p>
 </div>
-
-
-<div align="center" style="background-color: #1e1e2f; border-radius: 15px; padding: 20px; margin-bottom: 20px;">
+<div align="right" style="background-color: #1e1e2f; border-radius: 15px; padding: 20px; margin-bottom: 20px;">
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=17rick&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=1e1e2f" alt="17rick" />
   </p>
