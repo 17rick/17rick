@@ -61,10 +61,10 @@
 </p>
 
 
-<div align="left" style="display: flex; justify-content: space-between; gap: 20px; padding: 20px; background-color: #121212; border-radius: 20px; flex-wrap: nowrap;">
+<div align="left" style="display: flex; justify-content: space-between; gap: 20px; padding: 20px; background-color: #121212; border-radius: 20px; flex-wrap: nowrap;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <div style="flex: 1; background-color: #1e1e2f; border-radius: 15px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
     <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=17rick&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=1e1e2f" alt="17rick Top Languages" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=17rick&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=1e1e2f" alt="17rick Top Languages" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://github-readme-stats.vercel.app/api?username=17rick&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=1e1e2f" alt="17rick" />
     </p>
   </div>
@@ -77,9 +77,3 @@
 </div>
 
 
-<div align="Left" style="background-color: #1e1e2f; border-radius: 15px; padding: 20px; margin-bottom: 20px;">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=17rick&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=1e1e2f" alt="17rick Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=17rick&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=1e1e2f" alt="17rick" />
-  </p>
-</div>
