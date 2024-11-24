@@ -6,15 +6,15 @@
 - **Data Analyst proficient in Python, SQL, Power BI, and Machine Learning. Skilled in data cleaning, analysis, visualization, and predictive modeling. Collaborates with teams to transform data into actionable insights for strategic decision-making and operational efficiency**💡
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Stay in Touch🗺️</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prites-306459237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandrakant-thakur-314414182/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rick__17_/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rick__17_" height="30" width="40" />
+</a>
 <a href="https://www.kaggle.com/pritesbera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/chandrakantbthakur" height="30" width="40" /></a>
 <a href="https://x.com/PritesX" target="blank">
   <img align="center" src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-official-vector-download_691560-10797.jpg?semt=ais_hybrid" alt="PritesX" height="30" width="40" />
-<a href="https://www.instagram.com/rick__17_/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rick__17_" height="30" width="40" />
-</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
