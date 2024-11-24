@@ -44,7 +44,7 @@
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- Gmail Link -->
     <a href="prtesbera17@gmail.com" target="blank">
-      <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxswJICXq7v8Gf_8iVxfcVI_T5aKKhcM45mCNq11WOcBTLopAbY_J67WH6kI7uTlQogBQ&usqp=CAU" alt="Gmail" height="30" width="40" />
+      <img align="center" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxswJICXq7v8Gf_8iVxfcVI_T5aKKhcM45mCNq11WOcBTLopAbY_J67WH6kI7uTlQogBQ&usqp=CAU](https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png)" alt="Gmail" height="30" width="40" />
     </a>
   </p>
 </div>
