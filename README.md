@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prites Bera</h1>
 <h3 align="center">Aspiring Data Analyst </h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=17rick&label=Profile%20views&color=0e75b6&style=flat" alt="17rick" /> </p>
 
-&nbsp;
 - **Data Analyst proficient in Python, SQL, Power BI, and Machine Learning. Skilled in data cleaning, analysis, visualization, and predictive modeling. Collaborates with teams to transform data into actionable insights for strategic decision-making and operational efficiency**💡
 
-
-&nbsp;&nbsp;
 <h3 align="left">🌐Stay in Touch🗺️</h3>
 <p align="left">&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/prites-306459237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prites-306459237/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,7 +56,6 @@
   </a> 
 </p>
 
-&nbsp;
 <div align="left" style="display: flex; justify-content: space-between; gap: 20px; padding: 20px; background-color: #121212; border-radius: 20px; flex-wrap: nowrap;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <div style="flex: 1; background-color: #1e1e2f; border-radius: 15px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
     <p>
