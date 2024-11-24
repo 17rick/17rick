@@ -44,7 +44,7 @@
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <!-- Gmail Link -->
     <a href="prtesbera17@gmail.com" target="blank">
-      <img align="center" src="https://png.pngtree.com/png-vector/20220419/ourmid/pngtree-symbolic-icon-of-email-envelope-with-vector-gradient-gold-interfaces-vector-png-image_30077760.jpg" alt="Gmail" height="30" width="40" />
+      <img align="center" src="https://i.pinimg.com/736x/6c/f4/97/6cf4973f9b9517dd79a93afdba97d03d.jpg" alt="Gmail" height="30" width="40" />
     </a>
   </p>
 </div>
