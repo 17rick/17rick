@@ -23,6 +23,8 @@
 <a href="https://www.kaggle.com/pritesbera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/chandrakantbthakur" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/PritesX" target="blank">
   <img align="center" src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-official-vector-download_691560-10797.jpg?semt=ais_hybrid" alt="PritesX" height="30" width="40" />
+<a href="prtesbera17@gmail.com" target="blank">
+   <img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" height="30" width="40" /
 </p>
 </div>
 
