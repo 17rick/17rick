@@ -79,6 +79,20 @@
 </div>
 
 
+<!-- GitHub Stats Section -->
+<div style="padding: 20px; background-color: #121212; border-radius: 15px; border: 2px solid #4caf50;">
+  <h2 style="color: #8BC34A;">📊 GitHub Stats</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=17rick&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17rick&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=17rick&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  </p>
+</div>
+
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div style="padding: 20px; background-color: #2f2f4f; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <h2 style="color: #4caf50; text-align: center;">🖥️ Tech Stack 🛠️</h2>
