@@ -40,18 +40,16 @@
   </p>
 </div>
 
-<!-- GitHub Stats Section -->
-<div style="padding: 20px; background-color: #1e1e2f; border-radius: 15px; border: 2px solid #9c27b0;">
-  <h2 style="color: #9c27b0;">📊 GitHub Stats</h2>
+<div style="padding: 20px; background-color: #1e1e2f; border-radius: 15px; border: 2px solid #4caf50;">
+  <h2 style="color: #FF6347;">📊 GitHub Stats</h2>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=17rick&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17rick&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=17rick&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17rick&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
   </p>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=17rick&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=17rick&theme=transparent&hide_border=true" alt="GitHub Streak" />
   </p>
 </div>
-
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,6 +58,13 @@
   <h2 style="color: #B39DDB;">🌟 Contribution Graph</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=17rick&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
+
+<div align="center" style="padding: 20px; background-color: #1e1e2f; border-radius: 15px;">
+  <h2 style="color: #B39DDB;">🌟 Contribution Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=17rick&theme=gruvbox&hide_border=true" alt="Activity Graph" />
+</div>
+
+
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
