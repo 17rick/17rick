@@ -63,5 +63,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=17rick&show_icons=true&locale=en" alt="17rick" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=17rick" alt="17rick" /></p>
+<div align="center" style="background-color: #1e1e2f; border-radius: 15px; padding: 20px;">
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=17rick&theme=react&hide_border=true&background=1e1e2f" alt="17rick" />
+  </p>
+</div>
+
 
