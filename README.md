@@ -18,39 +18,14 @@
     <h2 style="color: #4caf50;">🌐Stay in Touch🗺️</h2>
   <p align="center">
   <a href="https://www.linkedin.com/in/prites-306459237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prites-306459237/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/rick__17_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rick__17_" height="30" width="40" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/rick__17_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rick__17_" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.kaggle.com/pritesbera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/chandrakantbthakur" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/PritesX" target="blank">
-  <img align="center" src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-official-vector-download_691560-10797.jpg?semt=ais_hybrid" alt="PritesX" height="30" width="40" />
+  <img align="center" src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-official-vector-download_691560-10797.jpg?semt=ais_hybrid" alt="PritesX" height="30" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="prtesbera17@gmail.com" target="blank">
-   <img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" height="30" width="40" /
+   <img align="center" src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" height="30" width="40" /></a>
 </p>
 </div>
-
-
-<div style="padding: 20px; background-color: #1e1e2f; border-radius: 15px;">
-  <h2 style="color: #4caf50;">🌐Stay in Touch🗺️</h2>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/prites-306459237/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/rick__17_/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.kaggle.com/pritesbera" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://x.com/PritesX" target="blank">
-      <img align="center" src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-official-vector-download_691560-10797.jpg?semt=ais_hybrid" alt="Twitter" height="30" width="40" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <!-- Gmail Link -->
-    <a href="prtesbera17@gmail.com" target="blank">
-      <img align="center" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxswJICXq7v8Gf_8iVxfcVI_T5aKKhcM45mCNq11WOcBTLopAbY_J67WH6kI7uTlQogBQ&usqp=CAU](https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png)" alt="Gmail" height="30" width="40" />
-    </a>
-  </p>
-</div>
-
 
 
 
