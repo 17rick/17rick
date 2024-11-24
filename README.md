@@ -5,15 +5,15 @@
   <h1 style="color: #ffffff;">Hi 🙋‍♂️, I'm <span style="color: #4caf50;">Prites🍁</span></h1>
   <h3 style="color: #ffffff;">⛩️Aspiring Data Scientist🪶</h3>
 </div>
-
+&nbsp;
 <div style="padding: 20px; background-color: #121212; border-radius: 15px;">
   <h2 style="color: #4caf50;"></h2>
   <p style="color: #ffffff;">
-    🗺️Data Analyst proficient in Python🐍, SQL, Power BI🪶, and Machine Learning🤖. Skilled in data cleaning, analysis, visualization🗺️, and predictive modeling💡. Collaborates with teams to transform data🪻 into actionable insights for strategic decision-making❄️ and operational efficiency🥀
+    🗺️Data Analyst proficient in Python🐍, SQL, Power BI🪶, and Machine Learning🤖. Skilled in data cleaning,🗺 analysis, visualization🌿, and predictive modeling💡. Collaborates with teams to transform data🪻 into actionable insights🍂 for strategic decision-making❄️ and operational efficiency🥀
   </p>
 </div>
 
-
+&nbsp;
 <div style="padding: 20px; background-color: #1e1e2f; border-radius: 15px;">
     <h2 style="color: #4caf50;">🌐Stay in Touch🗺️</h2>
   <p align="center">
@@ -94,7 +94,7 @@
 
 ----
 <div align="center" style="padding: 20px; background-color: #121212; border-radius: 15px;">
-  <h3 style="color: #4caf50;">Thank You for Visiting! 🎆</h3>
+  <h3 style="color: #4caf50;">🥀Thank You for Visiting!🍁</h3>
 </div>
 
 
