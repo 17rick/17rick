@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Souvik Samanta</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Prites Bera</h1>
+<h3 align="center">Aspiring Data Analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik1053&label=Profile%20views&color=0e75b6&style=flat" alt="souvik1053" /> </p>
 
@@ -60,9 +60,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvik1053&show_icons=true&locale=en&layout=compact" alt="souvik1053" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvik1053&show_icons=true&locale=en&layout=compact" alt="17rick" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvik1053&show_icons=true&locale=en" alt="souvik1053" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvik1053&show_icons=true&locale=en" alt="17rick" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik1053" alt="souvik1053" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik1053" alt="17rick" /></p>
 
