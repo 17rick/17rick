@@ -7,44 +7,44 @@
 
 
 <h3 align="left">🌐Stay in Touch🗺️</h3>
-<p align="left">&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/prites-306459237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandrakant-thakur-314414182/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/rick__17_/" target="_blank">
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/prites-306459237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandrakant-thakur-314414182/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/rick__17_/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rick__17" height="30" width="40" />
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/pritesbera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/chandrakantbthakur" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/pritesbera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/chandrakantbthakur" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/PritesX" target="blank">
   <img align="center" src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-official-vector-download_691560-10797.jpg?semt=ais_hybrid" alt="PritesX" height="30" width="40" />
 </p>
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<h3 align="left">🖥️Tech Stack🛠️</h3>
+<p align="left"> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org" target="blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/" target="blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://numpy.org/" target="blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/" target="blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://seaborn.pydata.org/" target="blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org" target="blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://keras.io/" target="blank" rel="noreferrer"> 
     <img src="https://keras.io/img/logo.png" alt="keras" width="40" height="40"/> 
-  </a> 
+  </a> &nbsp;&nbsp;&nbsp;
  
   </a> 
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://jupyter.org/" target="blank" rel="noreferrer"> 
     <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40"/> 
   </a> 
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
