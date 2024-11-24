@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prites Bera</h1>
-<h3 align="center">Aspiring Data Analyst </h3>
+<h1 align="center">Hi 👋, I'm Prites ❄️</h1>
+<h3 align="center">Aspiring Data Analyst🪶 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=17rick&label=Profile%20views&color=0e75b6&style=flat" alt="17rick" /> </p>
 
 - **Data Analyst proficient in Python, SQL, Power BI, and Machine Learning. Skilled in data cleaning, analysis, visualization, and predictive modeling. Collaborates with teams to transform data into actionable insights for strategic decision-making and operational efficiency**💡
