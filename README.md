@@ -14,6 +14,22 @@
   <img align="center" src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-official-vector-download_691560-10797.jpg?semt=ais_hybrid" alt="PritesX" height="30" width="40" />
 </p>
 
+<div align="left" style="display: flex; justify-content: space-between; gap: 20px; padding: 20px; background-color: #121212; border-radius: 20px; flex-wrap: nowrap;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <div style="flex: 1; background-color: #1e1e2f; border-radius: 15px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=17rick&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=1e1e2f" alt="17rick Top Languages" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://github-readme-stats.vercel.app/api?username=17rick&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=1e1e2f" alt="17rick" />
+    </p>
+  </div>
+</div>
+
+<div align="center" style="background-color: #1e1e2f; border-radius: 15px; padding: 20px;">
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=17rick&theme=react&hide_border=true&background=1e1e2f" alt="17rick" />
+  </p>
+</div>
+
+
 &nbsp;
 <h3 align="left">🖥️Tech Stack🛠️</h3>
 <p align="left"> &nbsp;&nbsp;&nbsp;
@@ -55,19 +71,5 @@
   </a> 
 </p>
 
-<div align="left" style="display: flex; justify-content: space-between; gap: 20px; padding: 20px; background-color: #121212; border-radius: 20px; flex-wrap: nowrap;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <div style="flex: 1; background-color: #1e1e2f; border-radius: 15px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=17rick&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=1e1e2f" alt="17rick Top Languages" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://github-readme-stats.vercel.app/api?username=17rick&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=1e1e2f" alt="17rick" />
-    </p>
-  </div>
-</div>
-
-<div align="center" style="background-color: #1e1e2f; border-radius: 15px; padding: 20px;">
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=17rick&theme=react&hide_border=true&background=1e1e2f" alt="17rick" />
-  </p>
-</div>
 
 
