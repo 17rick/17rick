@@ -4,6 +4,7 @@
 
 - **Data Analyst proficient in Python, SQL, Power BI, and Machine Learning. Skilled in data cleaning, analysis, visualization, and predictive modeling. Collaborates with teams to transform data into actionable insights for strategic decision-making and operational efficiency**💡
 
+&nbsp;
 <h3 align="left">🌐Stay in Touch🗺️</h3>
 <p align="left">&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/prites-306459237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prites-306459237/" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -15,7 +16,6 @@
 </p>
 
 
-&nbsp;&nbsp;&nbsp;
 <h3 align="left">🖥️Tech Stack🛠️</h3>
 <p align="left"> &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="blank" rel="noreferrer"> 
