@@ -2,14 +2,14 @@
     <img src="https://komarev.com/ghpvc/?username=17rick&label=Profile%20Views&color=0e75b6&style=flat" alt="17rick" />
 </p>
 <div align="center" style="background-color: #1e1e2f; padding: 20px; border-radius: 15px;">
-  <h1 style="color: #ffffff;">Hi 🙋‍♂️, I'm <span style="color: #4caf50;">Prites</span></h1>
-  <h3 style="color: #ffffff;">Aspiring Data Scientist🪶</h3>
+  <h1 style="color: #ffffff;">Hi 🙋‍♂️, I'm <span style="color: #4caf50;">Prites🍁</span></h1>
+  <h3 style="color: #ffffff;">⛩️Aspiring Data Scientist🪶</h3>
 </div>
 
 <div style="padding: 20px; background-color: #121212; border-radius: 15px;">
   <h2 style="color: #4caf50;"></h2>
   <p style="color: #ffffff;">
-    🗺️Data Analyst proficient in Python, SQL, Power BI🪶, and Machine Learning. Skilled in data cleaning, analysis, visualization, and predictive modeling. Collaborates with teams to transform data into actionable insights for strategic decision-making and operational efficiency💡
+    🗺️Data Analyst proficient in Python🐍, SQL, Power BI🪶, and Machine Learning🤖. Skilled in data cleaning, analysis, visualization🗺️, and predictive modeling💡. Collaborates with teams to transform data🪻 into actionable insights for strategic decision-making❄️ and operational efficiency🥀
   </p>
 </div>
 
@@ -30,7 +30,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- GitHub Stats Section -->
 <div style="padding: 20px; background-color: #1e1e2f; border-radius: 15px; border: 2px solid #4caf50;">
-  <h2 style="color: #FFD700;">📊 GitHub Stats</h2>
+  <h2 style="color: #FFD700;">💹GitHub Stats🪶</h2>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=17rick&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17rick&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
@@ -44,8 +44,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- Activity Graph Section -->
 <div align="center" style="padding: 20px; background-color: #1e1e2f; border-radius: 15px;">
-  <h2 style="color: violet;">🌟 Contribution Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=17rick&theme=midnight&hide_border=true" alt="Activity Graph" />
+  <h2 style="color: violet;">🚀Contribution Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=17rick&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
