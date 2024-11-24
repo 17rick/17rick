@@ -45,7 +45,7 @@
 <!-- Activity Graph Section -->
 <div align="center" style="padding: 20px; background-color: #1e1e2f; border-radius: 15px;">
   <h2 style="color: violet;">🌟 Contribution Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=17rick&theme=gradient&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=17rick&theme=midnight&hide_border=true" alt="Activity Graph" />
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
