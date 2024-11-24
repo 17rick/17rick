@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik1053&label=Profile%20views&color=0e75b6&style=flat" alt="souvik1053" /> </p>
 
-- 🌱 I’m currently learning **Data Science | Machine Learning | Deep Learning | NLP**
-
-- 💬 Ask me about **DS,ML,DL and NLP**
+- **Data Analyst proficient in Python, SQL, Power BI, and Machine Learning. Skilled in data cleaning, analysis, visualization, and predictive modeling. Collaborates with teams to transform data into actionable insights for strategic decision-making and operational efficiency**💡
 
 
 <h3 align="left">Connect with me:</h3>
