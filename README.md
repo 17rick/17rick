@@ -45,6 +45,13 @@
   </p>
 </div>
 
+<!-- Activity Graph Section -->
+<div align="center" style="padding: 20px; background-color: #1e1e2f; border-radius: 15px;">
+  <h2 style="color: #4caf50;">🌟 Contribution Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=17rick&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</div>
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div style="padding: 20px; background-color: #2f2f4f; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <h2 style="color: #4caf50; text-align: center;">🖥️ Tech Stack 🛠️</h2>
