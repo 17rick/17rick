@@ -42,7 +42,7 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- Activity Graph Section -->
+<!-- Activity Graph Section --> 
 <div align="center" style="padding: 20px; background-color: #1e1e2f; border-radius: 15px;">
   <h2 style="color: violet;">🚀Contribution Graph</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=17rick&theme=react-dark&hide_border=true" alt="Activity Graph" />
@@ -90,7 +90,6 @@
     </a>
   </p>
 </div>
-
 
 ----
 <div align="center" style="padding: 20px; background-color: #121212; border-radius: 15px;">
