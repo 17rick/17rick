@@ -47,7 +47,7 @@
   <h2 style="color: violet;">🚀Contribution Graph</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=17rick&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
-
+<!-- X -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div style="padding: 20px; background-color: #2f2f4f; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <h2 style="color: #4caf50; text-align: center;">🖥️ Tech Stack 🛠️</h2>
@@ -57,26 +57,26 @@
     </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.python.org" target="blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a>&nbsp;&nbsp;&nbsp&nbsp;
-    <a href="https://scikit-learn.org/" target="blank" rel="noreferrer"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://seaborn.pydata.org/" target="blank" rel="noreferrer"> 
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-    </a>&nbsp;&nbsp;&nbsp;
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://powerbi.microsoft.com/" target="blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
 </a>&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://jupyter.org/" target="blank" rel="noreferrer"> 
       <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40"/> 
-    </a>&nbsp;&nbsp;&nbsp&nbsp;
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4lkgTaFtjkK6L66jnBQtI4tL57CmU_vhzA&s" alt="excel" width="40" height="40"/> 
-    </a>&nbsp;&nbsp;&nbsp&nbsp;
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://code.visualstudio.com/" target="blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-</a> &nbsp;&nbsp;&nbsp;
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://scikit-learn.org/" target="blank" rel="noreferrer"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="#" target="blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/database/database-original.svg" alt="dbms" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 </div>
 
