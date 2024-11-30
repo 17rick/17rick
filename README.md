@@ -70,17 +70,14 @@
     <a href="https://seaborn.pydata.org/" target="blank" rel="noreferrer"> 
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.tensorflow.org" target="blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://powerbi.microsoft.com/" target="blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
+</a>&nbsp;&nbsp;&nbsp;
     <a href="https://keras.io/" target="blank" rel="noreferrer"> 
       <img src="https://keras.io/img/logo.png" alt="keras" width="40" height="40"/> 
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://jupyter.org/" target="blank" rel="noreferrer"> 
       <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40"/> 
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdD07Wmb_onuF5t2hwRKrBH7HYc7fCE0A0A&s" alt="tableau" width="40" height="40"/> 
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4lkgTaFtjkK6L66jnBQtI4tL57CmU_vhzA&s" alt="excel" width="40" height="40"/> 
