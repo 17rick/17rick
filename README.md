@@ -52,6 +52,9 @@
 <div style="padding: 20px; background-color: #2f2f4f; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <h2 style="color: #4caf50; text-align: center;">🖥️ Tech Stack 🛠️</h2>
   <p align="center">
+    <a href="https://www.mysql.com/" target="blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+    </a>
     <a href="https://www.python.org" target="blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a>&nbsp;&nbsp;&nbsp;
